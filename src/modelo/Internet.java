@@ -2,7 +2,7 @@ package modelo;
 
 /**
  *
- * @author Chigal, Lautaro - Ferrazzuolo, Nicolas
+ * @author Chigal, Lautaro - Ferrazzuolo, Nicolas - asdasdasd
  */
 
 public class Internet extends Servicio {
